@@ -1,0 +1,131 @@
+select#custom_info {
+    width: 100%;
+    line-height: 30px;
+    padding: 4px 20px;
+    height: 40px;
+}
+input#birthday {
+    width: 100%;
+    line-height: 30px;
+    padding: 4px 20px;
+}
+input[required = "required"]{
+    border-color: red !important;
+}
+
+#thim-popup-login .thim-register{
+    max-height: 400px;
+    overflow-y: scroll;
+}
+
+#thim-popup-login .thim-login-container {
+    overflow: hidden;
+    display: flex;
+    width: 61%;
+    margin: auto;
+}
+
+
+
+/**/
+.test-class{ color: red; }
+#thim-popup-login .thim-login-container {
+
+    width: 61% !important;
+
+}
+#thim-popup-login .thim-login-container p, #thim-popup-login .thim-login-container a {
+    font-size: 14.5px;
+    font-weight: 400;
+}
+.thim-login form, .thim-register form {
+    border: 0;
+    padding: 0;
+    max-width: 408px;
+    margin: auto;
+    clear: both;
+}
+label {
+    display: inline-block;
+    max-width: 100%;
+    margin-bottom: 5px;
+    font-weight: normal;
+}
+.thim-login form, .thim-register form {
+    border: 0;
+    padding: 0;
+    max-width: 422px;
+    margin: auto;
+    clear: both;
+}
+
+
+
+
+    #thim-popup-login .thim-login-container p, #thim-popup-login .thim-login-container a {
+        font-size: 14.5px;
+        font-weight: 400;
+    }
+    .thim-login form, .thim-register form {
+        border: 0;
+        padding: 0;
+        max-width: 408px;
+        margin: auto;
+        clear: both;
+    }
+    label {
+        display: inline-block;
+        max-width: 100%;
+        margin-bottom: 5px;
+        font-weight: normal;
+    }
+    .thim-login form, .thim-register form {
+        border: 0;
+        padding: 0;
+        max-width: 422px;
+        margin: auto;
+        clear: both;
+    }
+
+
+    /*@media (max-width: 767px) {*/
+
+    /*    #thim-popup-login .thim-login-container {*/
+    /*        width: 95% !important ;*/
+    /*    }*/
+    /*    #thim-popup-login .thim-login-container .input {*/
+    /*        width: 99% ;*/
+    /*        font-size: 12px;*/
+    /*        padding: 4px 8px;*/
+    /*    }*/
+    /*    .car_care_money {*/
+    /*        height: 16px !important;*/
+    /*        margin: -4px 4px 0 0 !important;*/
+    /*        padding: 0 !important;*/
+    /*        width: 16px !important;*/
+    /*        border-radius: 50%;*/
+    /*    }*/
+    /*    .radio_style {*/
+    /*        height: 16px !important;*/
+    /*        margin: -4px 4px 0 0 !important;*/
+    /*        padding: 0 !important;*/
+    /*        width: 16px !important;*/
+    /*        border-radius: 50%;*/
+    /*    }*/
+    /*    input#birthday {*/
+    /*        width: 100%;*/
+    /*        line-height: 30px;*/
+    /*        padding: 4px 20px;*/
+    /*    }*/
+    /*    label {*/
+    /*        display: inline-block;*/
+    /*        max-width: 100%;*/
+    /*        margin-bottom: 5px;*/
+    /*        font-weight: normal;*/
+    /*    }*/
+
+
+    /*}*/
+
+
+
